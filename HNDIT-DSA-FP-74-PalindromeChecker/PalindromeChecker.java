@@ -20,7 +20,7 @@ public class PalindromeChecker {
         String[] testSentences = {"madam"};
         
         for (String sentence : testSentences) {
-            System.out.println("Sentence: \"" + sentence + "\"");
+            System.out.println("Word: \"" + sentence + "\"");
             System.out.println("Is Palindrome? " + isPalindrome(sentence));
             System.out.println();
         }
