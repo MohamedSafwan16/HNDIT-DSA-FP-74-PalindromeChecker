@@ -39,7 +39,8 @@ The project consists of a single Java class `PalindromeChecker` with two primary
 - Prints results for each test string
 
 ## Expected Output
-![java](https://github.com/user-attachments/assets/5bfc64f2-e6f5-4f0d-af9b-6e476c45657b)
+![output](https://github.com/user-attachments/assets/e5ea2a05-e1e1-470f-90ad-90d327069919)
+
 
 ## Data Structures and Algorithms
 
